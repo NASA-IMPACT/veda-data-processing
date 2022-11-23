@@ -43,3 +43,6 @@ Scripts for data downloading, transformation, and related processing for the VED
 
 - [SPL3SMP](SPL3SMP/README.md) -- SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil moisture
 - [FIRMS active fires](FIRMS/README.md) -- Active fire data from MODIS (MOD14) and VIIRS (VNP14) from FIRMS/LANCE.
+
+# License
+This project is licensed under **Apache 2**, see the [LICENSE](LICENSE) file for more details.
